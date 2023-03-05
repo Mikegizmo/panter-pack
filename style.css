@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: white;
+}
+
+body {
+  font-family: 'Acme', sans-serif;
+  background-color: #333;
+}
+
+.text-center {
+  text-align: center;
+}
